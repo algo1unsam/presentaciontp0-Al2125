@@ -15,7 +15,7 @@ Ya saben usar git!
 Descripción---
 
 Foto de mi persona:
-![d](https://i.imgur.com/ByqI0wY.png)
+
 ![d](https://i.imgur.com/uz43woz.gif)
 
 Diente de Leon
