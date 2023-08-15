@@ -16,7 +16,6 @@ Me llamo Aldana Loureyro. Me dedico a hacer pixel art para videojuegos
 
 ![d](https://i.imgur.com/uz43woz.gif)
 
-Diente de Leon
 
 ------
 
