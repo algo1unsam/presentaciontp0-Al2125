@@ -12,7 +12,7 @@ Ya saben usar git!
 
 ## Estudiante: Nombre estudiante
 
-Descripción
+Descripción---
 
 Foto de mi persona:
 
